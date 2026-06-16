@@ -74,6 +74,8 @@
 ### 📊 GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=DylanKawonza&show_icons=true&theme=tokyonight&hide_border=true" />
 
+</div>
+
 
 # 👋 Hi, I'm Dylan  
 ### *Data Technician | Aspiring Data Analyst | Excel • SQL • Python • Power BI • Tableau • Azure*
@@ -156,6 +158,9 @@ I specialise in transforming raw data into clear insights using modern analytics
 www.linkedin.com/in/dylan-kawonza-6b12aa15b
 
 Email: Dylankawonza@hotmail.com
+
+---
+<p align="center"><i>"Data is the story — I just help tell it."</i></p>
 
 
 
